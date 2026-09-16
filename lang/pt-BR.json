@@ -9,6 +9,8 @@
   "Remaining Time": "Tempo Restante",
   "Stream Type": "Tipo de Stream",
   "LIVE": "AO VIVO",
+  "Seek to live, currently behind live": "Buscar ao vivo, atualmente atrás do ao vivo",
+  "Seek to live, currently playing live": "Buscar ao vivo, reproduzindo ao vivo atualmente"
   "Caption Area Background": "Fundo da Área de Legenda",
   "Playing in Picture-in-Picture": "Reproduzindo em Picture-in-Picture",
   "Loaded": "Carregado",
@@ -87,4 +89,5 @@
   "{1} is loading.": "{1} está carregando.",
   "Exit Picture-in-Picture": "Sair de Picture-in-Picture",
   "Picture-in-Picture": "Picture-in-Picture"
+  "No content": "Sem conteudo"
 }
